@@ -1,0 +1,9 @@
+**/.idea
+**/.git
+*venv
+
+**/docker-compose*
+**/Dockerfile*
+
+**/.dockerignore
+**/.gitignore
